@@ -11,6 +11,7 @@ const Todo = () => {
         <i className="fas fa-trash"></i>
       </button>
     </div>
+    // needs fixing, it is not showing on screen
   );
 };
 
